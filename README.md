@@ -24,6 +24,7 @@ Problems solved -
 [0125. Valid Palindrome.](https://leetcode.com/problems/valid-palindrome/) - Easy
 [0136. Single Number.](https://leetcode.com/problems/single-number/) - Easy
 [0141. Linked List Cycle.](https://leetcode.com/problems/linked-list-cycle/) - Easy
+[0035. Search Insert Position](https://leetcode.com/problems/search-insert-position/) - Easy
 [0169. Majority Element.](https://leetcode.com/problems/majority-element/) - Easy
 [0172. Factorial Trailing Zeroes.](https://leetcode.com/problems/factorial-trailing-zeroes/) - Easy
 [0190. Reverse Bits.](https://leetcode.com/problems/reverse-bits/) - Easy
@@ -52,3 +53,32 @@ Problems solved -
 [0695. Max Area of Island.](https://leetcode.com/problems/max-area-of-island/) - Medium
 [0733. Flood Fill.](https://leetcode.com/problems/flood-fill/) - Easy
 [0784. Letter Case Permutation.](https://leetcode.com/problems/letter-case-permutation/) - Easy
+[0053. Maximum Subarray.](https://leetcode.com/problems/maximum-subarray/) - Easy
+[0038. Count and Say.](https://leetcode.com/problems/count-and-say/) - Easy
+[0058. Length of Last Word.](https://leetcode.com/problems/length-of-last-word/) - Easy
+[0344. Reverse String.](https://leetcode.com/problems/reverse-string/) - Easy
+[0345. Reverse Vowels of a String.](https://leetcode.com/problems/reverse-vowels-of-a-string/) - Easy
+[0189. Rotate Array.](https://leetcode.com/problems/rotate-array/) - Easy
+[0198. House Robber.](https://leetcode.com/problems/house-robber/) - Easy
+[0234.Palindrome Linked List.](https://leetcode.com/problems/palindrome-linked-list/) - Easy
+[0206. Reverse Linked List.](https://leetcode.com/problems/reverse-linked-list/) - Easy
+[0235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Easy
+[0203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/) - Easy
+[0237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) - Easy
+[0226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - Easy
+[0383. Ransom Note](https://leetcode.com/problems/ransom-note/) - Easy
+[0633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) - Easy
+[0367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) - Easy
+[0069. Sqrt(x)](https://leetcode.com/problems/sqrtx/) - Easy
+[0637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) - Easy
+[0102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) - Medium
+[0107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) - Easy
+[0993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) - Easy
+[0088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - Easy
+[0977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - Easy
+[0121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - Easy
+[0021. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy
+[0101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) - Easy
+[0014. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Easy
+[0049. Group Anagrams](https://leetcode.com/problems/group-anagrams/) - Easy
+[0083. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - Easy

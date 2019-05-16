@@ -31,4 +31,3 @@ class Solution(object):
         # right
         if (col < numOfCols -1) and grid[row][col+1] != newColor and grid[row][col+1] == initialPixel:
             self.updateGrid(grid, row, col+1, numOfRows, numOfCols, initialPixel, newColor)
-        
