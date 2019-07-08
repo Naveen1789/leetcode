@@ -176,5 +176,20 @@ Java -
 [0739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) - Medium
 [0253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) - Medium
 [0388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) - Medium
+[0042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - Hard
+[0606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) - Easy
+[0139. Word Break](https://leetcode.com/problems/word-break/) - Medium
+[0105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - Medium
+[0106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) - Medium
+[0889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) - Medium
+[0536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) - Medium
+[0449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) - Medium
+[0011. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Medium
+[0146. LRU Cache](https://leetcode.com/problems/lru-cache/) - Medium
+[0232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) - Easy
+[0225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) - Easy
+[0716. Max Stack](https://leetcode.com/problems/max-stack/) - Easy *
+[0048. Rotate Image](https://leetcode.com/problems/rotate-image/) - Medium
+[0213. House Robber II](https://leetcode.com/problems/house-robber-ii/) - Medium
 Bash -
 [0193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) - Easy
