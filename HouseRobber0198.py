@@ -21,7 +21,7 @@ class Solution(object):
             temp.append(max(a,b))
 
         return max(temp[lenOfNums-1], temp[lenOfNums-2])
-        
+
     # def rob(self, nums):
     #     """
     #     :type nums: List[int]
@@ -40,3 +40,16 @@ class Solution(object):
     #     return max(self.getMaxMoney(nums, left+2, newSum), self.getMaxMoney(nums, left+1, sumSoFar))
     #
     #
+
+
+    # // Java
+    # public int rob(int[] num) {
+    #     int prevMax = 0;
+    #     int currMax = 0;
+    #     for (int x : num) {
+    #         int temp = currMax;
+    #         currMax = Math.max(prevMax + x, currMax);
+    #         prevMax = temp;
+    #     }
+    #     return currMax;
+    # }
